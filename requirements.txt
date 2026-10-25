@@ -1,7 +1,8 @@
+
 streamlit
 pandas
 matplotlib
-spacy
+spacy==3.8.0
 docx2txt
 neattext
 requests
