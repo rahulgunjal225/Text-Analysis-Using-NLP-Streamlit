@@ -1,8 +1,10 @@
 
 streamlit
 pandas
+numpy==1.26.4
 matplotlib
 spacy==3.8.0
+thinc==8.2.5
 docx2txt
 neattext
 requests
